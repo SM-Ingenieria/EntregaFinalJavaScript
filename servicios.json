@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cambio de Aceite y Filtros",
+        "precio": 15000,
+        "imagen": "aceite_filtro.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Alineado y Balanceo",
+        "precio": 6000,
+        "imagen": "alineadoBalance.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Inspeccion",
+        "precio": 2500,
+        "imagen": "inspeccion.jpg"
+    }
+        
+]
